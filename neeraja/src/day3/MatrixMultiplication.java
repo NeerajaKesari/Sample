@@ -17,7 +17,7 @@ public class MatrixMultiplication {
 				}
 				System.out.print(z[i][j]+" ");  
 			}
-				System.out.println();  
+				System.out.println("Neer is good girl");  
 		} 
 	}
 }
